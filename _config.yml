@@ -71,7 +71,7 @@ lines: # You can add HTML Tags in the Text
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
 
- me-img: "https://github.com/hyperchiicken.png?size=500"
+me-img: "https://github.com/hyperchiicken.png?size=500"
 
 # To use gravatar profile pic uncomment the following line and replace 'email_hash'
 # with your gravatar profile email hash.
@@ -145,7 +145,7 @@ timeline-img: "/img/timeline/chicken_or_the_egg.jpg"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "hyperchiicken@cobblethingstogether.com"
 
 ################
 # Author Blurb #
