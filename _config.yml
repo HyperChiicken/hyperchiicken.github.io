@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "I cobble things together :]"
 # - text: "Where’s your will to be weird?"
 
-# me-img: "/img/HyperChiicken LOGOv5.png.png"
+me-img: "/img/HyperChiicken LOGOv5.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -71,7 +71,7 @@ lines: # You can add HTML Tags in the Text
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
 
-me-img: "https://github.com/hyperchiicken.png?size=500"
+# me-img: "https://github.com/hyperchiicken.png?size=500"
 
 # To use gravatar profile pic uncomment the following line and replace 'email_hash'
 # with your gravatar profile email hash.
@@ -155,7 +155,7 @@ email: "hyperchiicken@cobblethingstogether.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "BLUUUURB"
 author_blurb_image: "/img/author.png"
 
 ##################
