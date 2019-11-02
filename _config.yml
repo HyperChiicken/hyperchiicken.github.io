@@ -163,17 +163,21 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-#  - title: "facebook"
-#    url: "https://facebook.com/"
+  - title: "instagram"
+    url: "https://instagram.com/hyperchiicken"
   - title: "twitter"
     url: "https://twitter.com/hyperchiicken"
   - title: "github"
     url: "https://github.com/hyperchiicken"
-#  - title: "bitcoin"
-#    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-#  - title: "rss"
-#    url: "/feed.xml"
-
+  - title: "hospital-symbol"
+    url: "https://www.hackster.io/HyperChiicken/"
+  - title: "robot"
+    url: "/https://www.instructables.com/member/HyperChiicken/"
+  - title: "itch-io"
+    url: "https://https://hyperchiicken.itch.io/"
+   - title: "youtube"
+    url: "https://www.youtube.com/channel/UCz5rKw3tF71ck_72kDLZsfg/"
+     
 ############
 # 404 page #
 ############
