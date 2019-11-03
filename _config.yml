@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "I cobble things together :]"
 # - text: "Where’s your will to be weird?"
 
-me-img: "/img/HyperChiicken LOGOv5.png"
+me-img: "/img/logo.jpg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
