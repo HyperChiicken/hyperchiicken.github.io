@@ -39,7 +39,7 @@
           {% include share.html %}
 
           {% if jekyll.environment == "production" %}
-            {% if site.enable-comments == "True" %}
+            {% if site.enable-comments %}
               {% include comments.html %}
             {% endif %}
           {% endif %}
