@@ -8,7 +8,7 @@ tags: ['projects', 'prototype', 'prototyping', 'gamejam', 'companionship']
 
 <figure>
    <center>
-	    <img src="/assets/img/2019-10-06/CompanionShip.gif">
+	    <img src="/img/2019-10-06/CompanionShip.gif">
       <figcaption align="center">CompanionShip Title Screen</figcaption>
    </center>
 </figure>
