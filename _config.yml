@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/background.jpg"
+background-img: "../img/bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -162,18 +162,21 @@ author_blurb_image: "/img/author.png"
 # Social Buttons #
 ##################
 
+# The title is tied to the icon found in font-awesome 5.11.0. Check the icons available on https://fontawesome.com/
+# To use the desired icon, copy and paste the icon's class ex. class="fas fa-robot" put title: "fas fa-robot"
+
 social:
-  - title: "instagram"
+  - title: "fab fa-instagram"
     url: "https://instagram.com/hyperchiicken"
-  - title: "github"
+  - title: "fab fa-github"
     url: "https://github.com/hyperchiicken"
-  - title: "hackster"
+  - title: "fas fa-hospital-symbol"
     url: "https://www.hackster.io/HyperChiicken/"
-  - title: "instructables"
+  - title: "fas fa-robot"
     url: "https://www.instructables.com/member/HyperChiicken/"
-  - title: "itch-io"
+  - title: "fab fa-itch-io"
     url: "https://hyperchiicken.itch.io/"
-  - title: "youtube"
+  - title: "fab fa-youtube"
     url: "https://www.youtube.com/channel/UCz5rKw3tF71ck_72kDLZsfg"
      
 ############
