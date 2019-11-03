@@ -2,12 +2,13 @@
 layout: post
 section-type: post
 title: Late Migration
+date: 2019-02-13
 category: tech
-tags: ['migration', 'ducks', 'obvious]'
+tags: ['migration', 'ducks', 'obvious']
 ---
 
 <figure>
-	<img src="/assets/img/migration.jpg">
+	<img src="/img/2019-02-13/migration.jpg">
 	<figcaption>Ducks be late.</figcaption>
 </figure>
 
