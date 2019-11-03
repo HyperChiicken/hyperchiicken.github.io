@@ -166,17 +166,17 @@ author_blurb_image: "/img/author.png"
 # To use the desired icon, copy and paste the icon's class ex. class="fas fa-robot" put title: "fas fa-robot"
 
 social:
-  - title: "fab fa-instagram"
+  - title: "instagram"
     url: "https://instagram.com/hyperchiicken"
-  - title: "fab fa-github"
+  - title: "github"
     url: "https://github.com/hyperchiicken"
-  - title: "fas fa-hospital-symbol"
+  - title: "hospital-symbol"
     url: "https://www.hackster.io/HyperChiicken/"
-  - title: "fas fa-robot"
+  - title: "robot"
     url: "https://www.instructables.com/member/HyperChiicken/"
-  - title: "fab fa-itch-io"
+  - title: "itch-io"
     url: "https://hyperchiicken.itch.io/"
-  - title: "fab fa-youtube"
+  - title: "youtube"
     url: "https://www.youtube.com/channel/UCz5rKw3tF71ck_72kDLZsfg"
      
 ############
