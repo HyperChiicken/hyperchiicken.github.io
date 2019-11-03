@@ -131,16 +131,22 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/to_mars.jpg"
-    date: "March 2019 - Today"
-    description: "Venturing the unknown!"
+  - image: "/img/timeline/kojima_arm.jpg"
+    date: "March 2019 - Present"
+    description: "Creating art and prototypes"
   - image: "/img/timeline/troubled.jpg"
-    date: "January 2019 - February 2019"
-    description: "Contemplated about life"
+    date: "February 2019"
+    description: "Soul-searching month"
+  - image: "/img/timeline/mice.jpg"
+    date: "January 2019"
+    description: "Diagnosed with advanced Glaucoma"
+  - image: "/img/timeline/impossibilities.jpg"
+    date: "December 2018"
+    description: "Freed from the shackles of Academia!"
 
 # First image of the Timeline
 
-timeline-img: "/img/chicken_or_the_egg.jpg"
+timeline-img: "/img/timeline/chicken_or_the_egg.jpg"
 
 ###########
 # Contact #
