@@ -24,7 +24,9 @@
               <a class="category" href="{{site.baseurl}}/categories/{{page.category | downcase}}.html">
                 {{ page.category }}
               </a>.
-              <a href="{{site.baseurl}}{{page.url }}#disqus_thread">Comments</a>
+              {% if site.enable-comments %}
+                <a href="{{site.baseurl}}{{page.url }}#disqus_thread">Comments</a>
+              {% endif %}
               <br />
               {% for tag in page.tags %}
                 <a class="tag" href="{{site.baseurl}}/tags/{{tag | downcase}}.html">#{{ tag }}</a>
