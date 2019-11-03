@@ -90,7 +90,7 @@ apple-status-bar-style: "black"
 # Web app mode #
 ################
 
-web-app-mode: True
+web-app-mode: False
 
 # Icons for Web App mode
 
@@ -139,7 +139,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/chicken_or_the_egg.jpg"
+timeline-img: "/img/chicken_or_the_egg.jpg"
 
 ###########
 # Contact #
@@ -155,8 +155,8 @@ email: "hyperchiicken@cobblethingstogether.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "BLUUUURB"
-author_blurb_image: "/img/author.png"
+author_blurb: #"BLUUUURB"
+author_blurb_image: #"/img/author.png"
 
 ##################
 # Social Buttons #
