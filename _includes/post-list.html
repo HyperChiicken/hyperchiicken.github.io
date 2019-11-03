@@ -13,7 +13,9 @@
     <strong>{{ post.title }}</strong>
   </a>
   <br class="visible-xs-block">
-  <small><a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>
+  {% if site.enable-comments %}
+    <small><a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>
+  {% endif %}
 </h4>
 
 <!-- Post List End -->
