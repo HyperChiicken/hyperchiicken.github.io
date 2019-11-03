@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Late Migration
-category: tech
+category: personal
 tags: ['migration', 'ducks', 'obvious']
 ---
 
