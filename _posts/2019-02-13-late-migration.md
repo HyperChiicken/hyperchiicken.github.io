@@ -2,7 +2,6 @@
 layout: post
 section-type: post
 title: Late Migration
-date: 2019-02-13
 category: tech
 tags: ['migration', 'ducks', 'obvious']
 ---
