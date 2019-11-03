@@ -106,6 +106,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 ########
 
 enable-gesture-navigation: True
+enable-comments: False
 
 post-preview-words: 96
 
