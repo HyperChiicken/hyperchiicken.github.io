@@ -2,12 +2,12 @@
 layout: post
 section-type: post
 title: Carpe Diem
-cataegory: personal
+category: personal
 tags: ['carpe diem', 'zzz', 'nap']
 ---
 
 <figure>
-	<img src="img/2019-02-26/carpe_diem.jpg">
+	<img src="/img/2019-02-26/carpe_diem.jpg">
 	<figcaption align="center">Seizzz the day.</figcaption>
 </figure>
 
