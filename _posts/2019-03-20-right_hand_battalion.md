@@ -1,5 +1,6 @@
 ---
 layout: post
+section-type: post
 title: Right Hand Battalion
 category: personal
 tags: ['right', 'hand', 'battalion', 'touch_typing', 'private_pinky']
