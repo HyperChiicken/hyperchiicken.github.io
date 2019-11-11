@@ -1,9 +1,9 @@
-.embed-youtube {
+.videoWrapper {
     max-width: 560px;
     margin: auto;
 }
 
-.embed-youtube div{
+.videoWrapper div{
     position: relative;
     padding-bottom: 56.25%;
     padding-top: 25px;
@@ -11,9 +11,9 @@
     overflow:hidden;
   }
 
-.embed-youtube iframe,
-.embed-youtube object,
-.embed-youtube embed {
+.videoWrapper iframe,
+.videoWrapper object,
+.videoWrapper embed {
     position: absolute;
     top: 0;
     left: 0;
