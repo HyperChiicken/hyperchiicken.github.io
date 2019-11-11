@@ -6,7 +6,7 @@ category: personal
 tags: ['reflection', 'lonely_rolling', 'katamari', 'rolling', 'thoughts', 'forever', 'soundtrack']
 ---
 	
-  <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/9lx7w1dNs5Y" frameborder="0"> </iframe></p>
+<p align="center">{% include youtubePlayer.html id="9lx7w1dNs5Y" %}</p>
 
 Listening to the song from Katamari Forever (linked above) made me nostalgic because the original song from the original Katamari game is titled "Lonely Rolling Star." After a few iterations of the game, it really feels like it progressed enough and garnered enough fans. The remake of the song describes that evolution with the more positive vibe and title to boot.
 
