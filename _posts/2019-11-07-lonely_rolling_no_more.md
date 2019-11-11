@@ -7,7 +7,7 @@ tags: ['reflection', 'lonely_rolling', 'katamari', 'rolling', 'thoughts', 'forev
 ---
 	
 <p>
-<div class="videWrapper">
+<div class="videoWrapper">
 	<iframe width="560" height="349" src="http://www.youtube.com/embed/9lx7w1dNs5Y" frameborder="0" allowfullscreen></iframe>
 </div>
 </p>
