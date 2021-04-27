@@ -5,9 +5,9 @@ title: Mid-year Review
 category: personal
 tags: ['mid', 'review', 'midyear', 'personaldevelopment']
 ---
-<p>
+<p align="center">
 	<div class="videoWrapper">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/JyW2TK-Ejow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/JyW2TK-Ejow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 </p>
 
