@@ -7,7 +7,7 @@ tags: ['stressed', 'chill', 'oddtaxi', 'anime']
 ---
 <p align="center">
 	<div class="videoWrapper">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/LKMw0hBDBUw"" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/LKMw0hBDBUw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 </p>
 
