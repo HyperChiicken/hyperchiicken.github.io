@@ -16,10 +16,9 @@ It's been 2 weeks after I got my second COVID shot. They said it's "safe" to go 
 
 There's a small mom and pop studio in town called "Not Made in China" that's all about making things with clay. Going in, I was expecting to use the "wheel" where you spin the clay into shape with the help of a high-speed rotary device. We ended up doing the beginner class that involved shaping the clay only without the fancy machinery. The gist of the steps are the following:
 
-<ul>
-	<li>Create a ball of clay by tossing it to your palm repeatedly.</li>
-	<li>Once it's smooth, slam it down! Albeit in a controlled fashion--again, repeatedy.</li>
-</ul>
+* Create a ball of clay by tossing it to your palm repeatedly.&nbsp;
+
+* Once it's smooth, slam it down! Albeit in a controlled fashion--again, repeatedy.&nbsp;
 
 * When you have a flat, oval shaped clay. Lay your handy-dandy sticks on both edges and start rolling--again, repeatedly.&nbsp;
 
