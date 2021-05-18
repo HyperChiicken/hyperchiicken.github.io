@@ -16,16 +16,27 @@ It's been 2 weeks after I got my second COVID shot. They said it's "safe" to go 
 There's a small mom and pop studio in town called "Not Made in China" that's all about making things with clay. Going in, I was expecting to use the "wheel" where you spin the clay into shape with the help of a high-speed rotary device. We ended up doing the beginner class that involved shaping the clay only without the fancy machinery. The gist of the steps are the following:
 
 <p style="text-align: left">
+	
 * Create a ball of clay by tossing it to your palm repeatedly.&nbsp;
+	
 * Once it's smooth, slam it down! Albeit in a controlled fashion--again, repeatedy.&nbsp;
+
 * When you have a flat, oval shaped clay. Lay your handy-dandy sticks on both edges and start rolling--again, repeatedly.&nbsp;
+
 * Replace the handy-dandy sticks with smaller handy-dandy sticks then start rolling--again, repeatedly... you get my point.&nbsp;
+
 * Slice the clay into a rectangle with a sharp stick and smoothen with a damp sponge.&nbsp;
+
 * Select a pipe (I chose a small one) and roll it against your flat clay. Make a mark a little bit after where they meet.&nbsp;
+
 * Create cross-hatching looking pattern on both sides then apply "slip" on both of them (imagine making a velcro).&nbsp;
+
 * Stick them together by pressing them firmly against each other.&nbsp;
+
 * Create the bottom with the left over clay.&nbsp;
+
 * Cut the shape and again cross-hatch, apply "slip", and stick them together!&nbsp;
+
 * Do the same method if you want a handle.&nbsp;
 </p>
 
