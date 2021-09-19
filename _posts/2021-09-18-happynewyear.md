@@ -14,7 +14,7 @@ tags: ['fiscalyear', 'blog', 'newyear', 'work', 'personal', 'worklifebalance']
 
 Woooosh! Time slipped again, and it's now the end of the fiscal year! I feel like I haven't accomplished anything, but it's worth celebrating (maybe). Anyways, I'm still in this bubble of stress where it's not likely to burst anytime soon. Work will always be work I guess.
 
-Moving on, my vision is never going to get better. The last eye specialist I saw pretty much ended with this: <b>¯\_(ツ)_/¯</b>. So what should I do now? Here's a good list:
+Moving on, my vision is never going to get better. The last eye specialist I saw pretty much ended with this: <b>¯ \_(ツ)_/¯</b>. So what should I do now? Here's a good list:
 * Be depressed forever
 * Be depressed forever and be okay with it
 * Adventure time! Make the most of what's left
