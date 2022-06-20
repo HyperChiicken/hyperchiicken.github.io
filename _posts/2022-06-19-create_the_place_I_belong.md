@@ -1,0 +1,25 @@
+---
+layout: post
+section-type: post
+title: Create the place I belong
+category: personal
+tags: ['personal', 'blog', 'timeslip', 'timetravelling']
+---
+
+<p align="center">
+        <div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D_Oyplmhhv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+</p>
+
+Damn, my <b><i>chronosphere</b></i> lost synchronization and now I'm in the middle of 2022! I got a house, lost my best buddy Cocoa, got another doggy bro Ruffus. All of this in the middle of doing the usual work. 
+
+So let's start with the house. I got one. I'm relieved and weary at the same time about it. I'm happy to have a coop that I own, but the repairs and the looming ones are scary. If I had infinite monies, I wouldn't worry about it. Unfortunately, money doesn't grow on trees. Maybe I'll just genetically create on that does; that's another topic though. Anyways, the house is really old (1951) and has its quirks. For example, it has not one but two crawlspaces! WOW! Twice the worries! Not mention the possible asbestos and lead paint. Whooopy! It's still cool that I can do whatever I want within it though. I think it cancels the bad things out (for now).
+
+Two weeks after moving in, my doggy best friend passed away. It was painful. All I remember is hugging him as he was really weak. He still tried getting up to show us that he's okay, but he would slump back down. It's heartbreaking. He was a good boy -- he remained a good boy all the way till the end. I told him to wait for the dogtor to arrive and he did! Minutes after help arrived, he breathed his last in my arms. I wish I could taken care of him better... I miss him and always will. Till next time Cocoa.
+
+Now enter Ruffus -- the uber energetic pug. My sifnifacnt other chose to take him in after a few weeks to fill the void that Cocoa left behind. Unfortunately, the void is still there; will always be. However, Ruffus has given us things to think about besides being sad. His relentless rowdiness has left us scrambling for a breather. This guy does not stop eating everything; even the house! He already gnawed off the carpet, the wall fixture, and the blinds. Personal things like underwear is also not safe from this little gremlin. Now, he has a stomachache and has liquid poop because of all the things he ate. His energy is still 100%. Amazing.
+
+What happens next? Who knows. First thing is to fix this damn <b><i>chronosphere</b></i> so I can take control of my time. <b><i>**Off to fix the technodoodad**</b></i>
+
+
