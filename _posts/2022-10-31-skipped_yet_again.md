@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: It's gonna rain
+title: Skipped yet again
 category: personal
 tags: ['personal', 'blog', 'skip', 'again']
 ---
