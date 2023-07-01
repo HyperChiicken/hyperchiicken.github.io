@@ -8,7 +8,7 @@ tags: ['kaijune', 'blog', 'games', 'anime']
  
 <figure>
 	<img src="/img/bocchi-the-rock-dino.gif">
-	<figcaption align="KaiJune"</figcaption>
+	<figcaption align=center>"KaiJune"</figcaption>
 </figure>
 
 The ** __*chronosphere*__ **  decided to stop at the end of the month, which is fine. Nothing eventful really happened. Days really just intermingled with each other. I wastched some anime here and there like "Bocchi the Rock" -- I haven't laughed so hard in a long time -- such a precious anime! It's quite inspirational too; it makes you want to strive at being really good at something. But it wasn't inspirational enough for me to go and hone my skills at something. Then there's Demon Slayer which is badass as always. Finally, Oshi no Ko -- dayummm -- the first episode is (fire) (fire) (fire)! The story winds down a bit as it progressed but still holds your interest all the way to the end.
