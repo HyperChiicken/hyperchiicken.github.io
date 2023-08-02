@@ -5,8 +5,9 @@ title: The 2023 July Experience
 category: personal
 tags: ['personal', 'haiku', 'skipped', 'uneventful']
 ---
+<br/><br/>
 
- # Haiku about July
+## Haiku about July
 
 *July just went by.*
 
@@ -15,7 +16,7 @@ tags: ['personal', 'haiku', 'skipped', 'uneventful']
 *Urgh, no idea.*
 <br/><br/>
 
-# Actual blog post
+## Actual blog post
 
 <figure>
 	<img src="/img/united-states-smash-united-states-of-smash.gif">
