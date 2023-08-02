@@ -21,11 +21,11 @@ Hopefully, this month won't be as meh. With that I leave you with a haiku:
 <br/><br/>
 <h2 align="center"> Haiku about July </h2>	
 
-<p align="center">*July just went by.*</p>
+<p align="center">*July* *just* *went* *by.*</p>
 
-<p align="center">*What the heck even happened?*</p>
+<p align="center">*What* *the* *heck* *even* *happened?*</p>
 
-<p align="center">*Urgh, no idea.*</p>
+<p align="center">*Urgh,* *no* *idea.*</p>
 <br/><br/>
 
  ** __*Chronosphere*__ spins out of existence **
