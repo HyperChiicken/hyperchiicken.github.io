@@ -28,5 +28,5 @@ Hopefully, this month won't be as meh. With that I leave you with a haiku:
 
 <br/><br/>
 
- ** __*chronosphere*__ spins out of existence **
+ ** __*Chronosphere*__ spins out of existence **
 
